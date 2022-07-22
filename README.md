@@ -10,6 +10,7 @@ For that, you can easily follow this link which explains very well how to do ins
 
 ## Usage
 
+You'll need both cancer.ipynb and the
 Just launch Jupyter Notebook, and then open the cancer.ipynb file !
 The file is separated into two parts :
 - The processing part which consists in analyzing the data
