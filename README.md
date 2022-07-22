@@ -11,7 +11,7 @@ For that, you can easily follow this link which explains very well how to do ins
 ## Usage
 
 You'll need to import both "cancer.ipynb" and "survey lung cancer.csv" into a document.
-After that, just launch Jupyter Notebook, and then open the cancer.ipynb file !
+After that, just launch Jupyter Notebook, and then open the cancer.ipynb file !<br>
 The file is separated into two parts :
 - The processing part which consists in analyzing the data
 - The Logistic regression part where you'll find the code for this algorithm, from scratch (i hope that you've some math knowledge :))
