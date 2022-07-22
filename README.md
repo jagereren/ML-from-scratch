@@ -1,6 +1,6 @@
 ## Description
 
-Machine learning project using logistic regression, written from scratch (without any librairy like scikit learn etc).
+Machine learning project using logistic regression, written from scratch (without any librairy like scikit-learn).
 
 ## Installation
 
