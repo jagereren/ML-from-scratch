@@ -1,4 +1,4 @@
-# Description
+## Description
 
 Machine learning project using logistic regression, written from scratch (without any librairy like scikit learn etc).
 
@@ -10,8 +10,8 @@ For that, you can easily follow this link which explains very well how to do ins
 
 ## Usage
 
-You'll need both cancer.ipynb and the
-Just launch Jupyter Notebook, and then open the cancer.ipynb file !
+You'll need to import both "cancer.ipynb" and "survey lung cancer.csv" into one document.
+After that, just launch Jupyter Notebook, and then open the cancer.ipynb file !
 The file is separated into two parts :
 - The processing part which consists in analyzing the data
 - The Logistic regression part where you'll find the code for this algorithm, from scratch (i hope that you've some math knowledge :))
