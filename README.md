@@ -9,9 +9,8 @@ You've got two versions :
 
 In order to launch this project you'll need to install python, go to this official link https://www.python.org/downloads/.
 - For the first version
-  You can easily follow this link which explains very well how to do install Jupyter Notebook, with the terminal : https://medium.com/analytics-vidhya/how-to-install-jupyter-notebook-using-pip-e597b5038bb1
+  You can easily follow this link which explains very well how to install Jupyter Notebook, with the terminal : https://medium.com/analytics-vidhya/how-to-install-jupyter-notebook-using-pip-e597b5038bb1
 - For the second
-  You'll need to install streamlit by the following command.
   Use the package manager [pip](https://pip.pypa.io/en/stable/) to install the different packages.
   ```bash
   pip install streamlit
