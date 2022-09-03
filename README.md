@@ -35,7 +35,7 @@ Before starting, you can notice that the processing part is quite short, the rea
 
 ## Screenshots
 
-![image](https://user-images.githubusercontent.com/75220653/188285879-f4751ffa-beca-46af-a9f2-94996c0d6ad2.png)
-![image](https://user-images.githubusercontent.com/75220653/188285884-ba41c258-e23a-4c4c-9cab-0275c3931570.png)
+![image](https://user-images.githubusercontent.com/75220653/188285889-7b50f23b-43e5-4553-aa2a-29101702c252.png)
+![image](https://user-images.githubusercontent.com/75220653/188285892-7de89517-5802-4b2b-9115-672c8472cb5f.png)
 
 
