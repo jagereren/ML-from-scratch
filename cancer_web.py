@@ -99,7 +99,7 @@ def spe_pred(X,w,b):
 def interface():
     st.title("Lung Cancer prediction using logistic regression from scratch")
     st.info("Before starting, know that 1 corresponds to No and 2 to yes (and 1 for M, 2 for W)")
-    st.warning("Note : the model is trained on aged patients, before 52 years old it doesn't predict well")
+    st.warning("Note : the model is trained on aged patients, before 60 years old it doesn't predict well")
     #st.write("Wait for the algorithm calculus...")
     w = np.array([-0.24789577,-0.09846541,-0.14310047,0.3016247,0.2128516,0.57180479,0.31619902,0.67509743,1.05731802,0.36177969,0.89612407,0.7023849,-0.15299983,0.79663349,0.03357194])
     b = -0.5628063991598001 # we found optimal w and b values with the previous gradient descent
@@ -107,7 +107,7 @@ def interface():
     labels = ["Smoking ?","Yellow fingers ?","Anxiety ?","Peer pressure ? (influenced by a peer)","Chronic disease ?","Fatigue ?","Allergy ?",
     "Wheezing ?","Alcohol consuming ?","Coughing ?","Shortness of breath ?","Swallowing difficulty ?","Chest pain ?"]
     gender = st.number_input("Your gender",step=1,min_value=0,max_value=1)
-    age = st.slider("Your age",0,100)
+    age = st.slider("Your age",60,100)
     X.append(gender)
     X.append(age)
     for e in labels:
