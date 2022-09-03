@@ -32,3 +32,8 @@ Before starting, you can notice that the processing part is quite short, the rea
   ```bash
   streamlit run cancer_web.py
   ```
+
+## Screenshots
+
+![image](https://user-images.githubusercontent.com/75220653/188285860-3a6ab685-96b6-4c15-913c-5d087ba82ddd.png)
+
